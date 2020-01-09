@@ -1,0 +1,25 @@
+{
+  "name": "api-crawler-ts",
+  "version": "1.0.0",
+  "description": "This library helps to crawl the given apis and gives the output back. The users will be able to configure the list of API calls using config file.",
+  "main": "dist/run.js",
+  "scripts": {
+    "start": "tsc && node dist/run.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrameshbtech/api-crawler-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrameshbtech/api-crawler-ts/issues"
+  },
+  "homepage": "https://github.com/rrameshbtech/api-crawler-ts#readme",
+  "devDependencies": {
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.4"
+  }
+}
